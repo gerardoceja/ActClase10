@@ -25,7 +25,8 @@ Escribe ahora una función main que pregunte al usuario el largo y ancho del rec
 <br>Ingresa el ancho: 5
 <br>Ingresa el largo: 2
 <br>Quiere calcular el área o el perímetro del rectángulo:
-<br>Ingresa el ancho: a
+<br>(a para área y p para perímetro)
+<br>op: a
 
 <br><b>Salida</b>
 <br>area: 10.0
